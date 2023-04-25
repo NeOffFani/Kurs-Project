@@ -19,9 +19,13 @@
 
 Первый пункт: База данных.
 Шаг 1: Запустить SQL Server Managment Studio
+
 Шаг 2: Зайти в систему с именем сервера: localhost\SQLEXPRESS
+
 Шаг 3: Создать базу данных с названием: Department
+
 Шаг 4: Запустить скрипт: FullBase.sql
+
 Шаг 5: Активировать скрипт кнопкой F5
 
 Пункт второй: Microsoft Visual Studio
